@@ -2,9 +2,8 @@
 
 Harvard Extension School '2016년 상반기 
 
-Java Class Term Project 
+Java Class Term Project (아래 내용은 제출한 리포트 원문임) 
 
-설치 방법, Compile 방법 등은 TermProject-mKim.pdf 를 읽어볼 것 
 
 # Background
 * Many people are frustrated with the dumb elevator, which moves by incomprehensible logic.
